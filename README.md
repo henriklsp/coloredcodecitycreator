@@ -18,7 +18,8 @@ Instructions:
 - Download the Windows standalone and run ColoredCodeCityCreator and run it:
 https://drive.google.com/file/d/1WYwZhaEuhdowlbWHdSO5r7pdJiezsWsQ/view?usp=sharing
 
-Copy the path of your source code root directory.
-Run ColoredCodeCityCreator
-Paste the source path
-Click on buildings to view class name, path, and metrics
+- Copy the path of your source code root directory.
+- Run ColoredCodeCityCreator
+- Paste the source path
+- Click on buildings to view class name, path, and metrics
+- Look for the biggest and brightest blocks to identify problem areas
