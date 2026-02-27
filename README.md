@@ -11,9 +11,9 @@ Color is a composite of dependencies / efferent coupling (R), dependants / affer
 Currently supports Java, ActionScript, C#.
 
 Instructions:
-Download assets and open MainScene in Unity
- - or -
-Download the Windows standalone executable:
+- Download assets and open MainScene in Unity
+    or
+- Download the Windows standalone executable:
 https://drive.google.com/file/d/1WYwZhaEuhdowlbWHdSO5r7pdJiezsWsQ/view?usp=sharing
 
 Copy the path of your source code root directory.
